@@ -1,2 +1,2 @@
 # TCC-Dev.-Sistemas
-TCC Desenvolvimento de Sistemas
+TCC de Desenvolvimento de Sistemas
